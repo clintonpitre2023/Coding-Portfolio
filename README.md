@@ -1,4 +1,4 @@
-This is Java a program that displays the following pattern:
+This is Java a program that displays the following star pattern:
      *
    ***
   *****
